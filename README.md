@@ -18,14 +18,3 @@ Aprofundei habilidades em análise de dados e modelos preditivos no programa Ger
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/maschioerika)
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=erikamaschio&show_icons=true&hide_title=true&include_all_commits=true&rank_icon=github&bg_color=00000000&hide_border=true&theme=blue" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikamaschio&layout=compact&bg_color=00000000&hide_border=true&theme=blue" />
-    </td>
-  </tr>
-</table>
-
