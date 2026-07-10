@@ -1,9 +1,8 @@
-## Olá, me chamo Erika Maschio!🤍
+## Olá, me chamo Erika!
 
-Sou estudante de ADS com foco em Python para Ciência de Dados e Machine Learning (Pandas, Seaborn, Scikit-learn), tenho conhecimentos em SQL e Power BI.
-Atuei no projeto Viva-Bem-Mais (Tecnopuc + Instituto Eldorado) com foco em Frontend e Banco de Dados.
+Atualmente atuo como estagiária na área de **Dados & Inteligência** na Start by Alura, com foco em SQL e Power BI, desenvolvendo dashboards e visualizações para acompanhamento de indicadores.
 
-Aprofundei habilidades em análise de dados e modelos preditivos no programa Geração Caldeira 2024, tenho familiaridade com metodologias ágeis e organização de processos.
+Estou no 6º semestre de ADS na Unisinos e conclui o curso técnico em Informática para Internet na QI. Fui selecionada para o Geração Caldeira 2024 na trilha de Python, onde desenvolvi projetos reais em equipe com metodologias ágeis.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
