@@ -2,7 +2,7 @@
 
 Atualmente atuo como estagiária na área de **Dados & Inteligência** na Start by Alura, com foco em SQL e Power BI, desenvolvendo dashboards e visualizações para acompanhamento de indicadores.
 
-Estou no 6º semestre de ADS na Unisinos e conclui o curso técnico em Informática para Internet na QI. Fui selecionada para o Geração Caldeira 2024 na trilha de Python, onde desenvolvi projetos reais em equipe com metodologias ágeis.
+Estou no 6º semestre de ADS na Unisinos e conclui o curso técnico em Informática para Internet na QI. Fui selecionada para o **Geração Caldeira 2024** na trilha de Python, onde desenvolvi projetos reais em equipe com metodologias ágeis.
 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
